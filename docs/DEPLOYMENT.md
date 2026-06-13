@@ -12,7 +12,16 @@ This document describes the recommended deployment for Audut CNMI.
 1. Create a GitHub repository under `AudutSphere Intelligence Corp/audut-cnmi`.
 2. Connect the repository to Vercel.
 3. Configure the project in Vercel with build command `npm run build` and output directory `dist`.
-4. Add a custom domain in Vercel once purchased.
+4. Add the purchased domain `www.audutcnmi.com` in Vercel and verify the DNS settings.
+
+## Vercel deployment details
+
+- Build command: `npm run build`
+- Output directory: `dist`
+- Root directory: `/`
+- Framework preset: Vite
+
+If the site is already connected to Vercel, map `www.audutcnmi.com` as the primary custom domain.
 
 ## Environment variables
 

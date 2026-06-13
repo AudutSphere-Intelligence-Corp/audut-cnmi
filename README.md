@@ -4,6 +4,8 @@ Audut CNMI is an open source document and records management starter app for the
 
 This repository is the open source starter for the AudutSphere CNMI project.
 
+The app is deployed on Vercel and can be served from `https://www.audutcnmi.com` once the domain is attached.
+
 ## Getting started
 
 ```bash
