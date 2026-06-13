@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "description": "Open source Audut CNMI starter app by AudutSphere Intelligence Corp.",
-  "author": "AudutSphere Intelligence Corp",
+  "author": "PK Daigo <pkdaigo@users.noreply.github.com>",
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
