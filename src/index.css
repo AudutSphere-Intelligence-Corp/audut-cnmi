@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  background: #f8fafc;
+  color: #111827;
+}
+
+main {
+  max-width: 42rem;
+  margin: 4rem auto;
+  padding: 1.5rem;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 20px 80px rgba(15, 23, 42, 0.08);
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-bottom: 1rem;
+}
+
+p {
+  margin: 0.75rem 0;
+}

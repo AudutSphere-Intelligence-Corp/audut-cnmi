@@ -1,0 +1,22 @@
+{
+  "name": "audut-cnmi",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Open source Audut CNMI starter app by AudutSphere Intelligence Corp.",
+  "author": "AudutSphere Intelligence Corp",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc && vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "typescript": "~6.0.2",
+    "vite": "^8.0.12"
+  }
+}

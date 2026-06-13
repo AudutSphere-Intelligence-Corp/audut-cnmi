@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "types": ["vite/client"]
+  },
+  "files": ["./vite.config.ts"]
+}
