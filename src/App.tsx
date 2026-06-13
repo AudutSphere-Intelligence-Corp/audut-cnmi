@@ -273,10 +273,10 @@ function App() {
     <main className="app-shell">
       <section className="hero-panel">
         <div>
-          <p className="eyebrow">Audut CNMI Swipe Desk</p>
-          <h1>Browse recovery updates and emergency resources fast</h1>
+          <p className="eyebrow">CNMI Disaster Response</p>
+          <h1>Browse recovery updates and resources</h1>
           <p className="intro">
-            Swipe through CNMI response cards to see who is doing what, where supplies are available, and which outage reports need attention.
+            Swipe through cards to see recovery efforts, available supplies, and outage reports across the Northern Mariana Islands.
           </p>
           {dbStatus === "connected" && <p style={{ fontSize: "0.9rem", color: "#666", marginTop: "0.5rem" }}>✓ Connected to Supabase</p>}
           {dbStatus === "loading" && <p style={{ fontSize: "0.9rem", color: "#666", marginTop: "0.5rem" }}>Loading reports...</p>}
