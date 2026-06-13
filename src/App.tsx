@@ -210,7 +210,7 @@ function App() {
           <p className="eyebrow">CNMI Disaster Response</p>
           <h1>Browse recovery updates and resources</h1>
           <p className="intro">
-            Swipe through cards to see recovery efforts, available supplies, and outage reports across the Northern Mariana Islands.
+            Audut CNMI is an open-source civic-data platform for community-submitted disaster reports across the Northern Mariana Islands. Residents, volunteers, and responders can publish time-stamped updates on outages, resources, and recovery progress to improve transparency and coordination.
           </p>
           {dbStatus === "connected" && <p style={{ fontSize: "0.9rem", color: "#666", marginTop: "0.5rem" }}>✓ Connected to Supabase</p>}
           {dbStatus === "loading" && <p style={{ fontSize: "0.9rem", color: "#666", marginTop: "0.5rem" }}>Loading reports...</p>}

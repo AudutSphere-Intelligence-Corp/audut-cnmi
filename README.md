@@ -1,8 +1,9 @@
 # CNMI Disaster Response
 
-An open source disaster recovery platform for the Northern Mariana Islands. Built for transparency, accountability, and local ownership.
 
-**Mission:** Empower CNMI communities with a fast, transparent platform to share recovery updates, track resources, and coordinate response efforts—accessible on any device, inspectable by anyone.
+Audut CNMI is an open-source civic-data platform for collecting and sharing community-submitted disaster reports across the Northern Mariana Islands. It helps residents, volunteers, and response teams publish time-stamped updates on outages, available supplies, damage, and recovery activities so communities can act quickly and transparently.
+
+**Mission:** Promote local ownership and transparent decision-making by making community reports discoverable, auditable, and easy to share. The project code and data export tools are available on GitHub so partners can extend or integrate the platform for their workflows. Please follow privacy best practices when sharing personal information.
 
 Live at [www.audutcnmi.com](https://www.audutcnmi.com)
 
