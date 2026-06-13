@@ -1,14 +1,10 @@
-# Audut CNMI
+# CNMI Disaster Response
 
-Audut CNMI is an open source document and records management starter app for the Northern Mariana Islands, built by AudutSphere Intelligence Corp.
+An open source disaster recovery platform for the Northern Mariana Islands. Built for transparency, accountability, and local ownership.
 
-This repository is the open source starter for the AudutSphere CNMI project.
+**Mission:** Empower CNMI communities with a fast, transparent platform to share recovery updates, track resources, and coordinate response efforts—accessible on any device, inspectable by anyone.
 
-Mission: empower CNMI communities with a transparent, locally owned disaster recovery platform that can be inspected, adapted, and maintained by regional stakeholders.
-
-Maintainer and creator: PK Daigo.
-
-The app is deployed on Vercel and can be served from `https://www.audutcnmi.com` once the domain is attached.
+Live at [www.audutcnmi.com](https://www.audutcnmi.com)
 
 ## Getting started
 
