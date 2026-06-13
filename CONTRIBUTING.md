@@ -1,6 +1,6 @@
 # Contributing to Audut CNMI
 
-Thanks for your interest in contributing to Audut CNMI. This repository is maintained by AudutSphere Intelligence Corp.
+Thanks for your interest in contributing to Audut CNMI. This repository is maintained by PK Daigo.
 
 ## How to contribute
 
