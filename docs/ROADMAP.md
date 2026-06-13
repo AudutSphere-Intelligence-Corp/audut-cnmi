@@ -15,15 +15,27 @@ Build a public, community-led disaster recovery starter app for the Northern Mar
 - Document deployment and setup in `docs/DEPLOYMENT.md`.
 
 ## Phase 2: CNMI Disaster Response MVP
-- Implement a simple document and records management workspace.
+- Implement a disaster recovery coordination workspace for CNMI.
 - Core features:
-  - add, view, and organize documents
-  - basic search and filtering
-  - record metadata for emergency response use cases
-  - retention and legal hold support
-  - audit trail for changes
-- Make the UI accessible and mobile-friendly.
-- Provide sample data and demo flows for CNMI use.
+  - donation tracking
+    - source and donor
+    - destination or recipient
+    - item details or amount
+    - date, time, and status
+  - supply and vendor directory for emergency resources
+    - ice, generators, solar, water, fuel, and other essential supplies
+    - vendor name, location, contact details, availability, and hours
+  - infrastructure status and outage reporting
+    - power outage zones, restore status, and outage timestamps
+    - stoplight outages and affected intersections
+    - critical facility status for shelters, clinics, and water stations
+  - agency and accountability board
+    - Zoning, DPL, DPW, CUC, elected representatives
+    - active assignments, responsible teams, and progress updates
+    - debris cleanup responsibility, completion dates, and scheduled times
+  - searchable records with metadata and filters
+  - mobile-friendly and accessible UI for local residents and responders
+- Provide sample CNMI disaster data and local response workflows.
 
 ## Phase 3: Local Ownership and Community
 - Add collaboration and contribution support:
