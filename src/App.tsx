@@ -15,73 +15,7 @@ type CardItem = {
 
 const cnmiIslands = ["Saipan", "Tinian", "Rota", "Aguiguan", "Alamagan", "Pagan", "Anatahan", "Farallon de Medinilla", "Managaha"]
 
-const initialCardItems: CardItem[] = [
-  {
-    id: "SUP-001",
-    category: "Supply Vendor",
-    title: "Ice & Cooler Supply",
-    subtitle: "Icemart Saipan",
-    details: "Open daily from 8am–6pm. Deliveries available to shelters and community centers. Call ahead to reserve ice blocks.",
-    status: "Available",
-    tags: ["ice", "shelter", "delivery"],
-    timestamp: "Updated 2026-06-13 10:15",
-  },
-  {
-    id: "AGEN-002",
-    category: "Agency Update",
-    title: "CUC Power Restoration",
-    subtitle: "CUC crew is working on grid repairs in San Roque",
-    details: "CUC reports most outages are due to transformer damage. Restoration is targeted for June 15, pending parts arrival.",
-    status: "In Progress",
-    tags: ["power", "CUC", "restoration"],
-    owner: "CUC",
-    timestamp: "Updated 2026-06-13 09:00",
-  },
-  {
-    id: "OUT-003",
-    category: "Outage Report",
-    title: "Traffic signal outage",
-    subtitle: "Route 30 and Route 1 intersection",
-    details: "Stoplight is still out at the intersection. DPW crews have scheduled repairs for June 14 at 2pm.",
-    status: "Scheduled",
-    tags: ["stoplight", "DPW", "road"],
-    owner: "DPW",
-    timestamp: "Updated 2026-06-13 08:45",
-  },
-  {
-    id: "AID-004",
-    category: "Donation Tracking",
-    title: "Generator donations",
-    subtitle: "30 generators from mainland partners",
-    details: "Shipment arrived in port and is being staged for distribution to PSS shelters and community centers with power needs.",
-    status: "Staged",
-    tags: ["generators", "donations", "distribution"],
-    owner: "DPL",
-    timestamp: "Updated 2026-06-13 11:20",
-  },
-  {
-    id: "CLEAN-005",
-    category: "Debris Cleanup",
-    title: "Cleanup responsibility",
-    subtitle: "DPW debris crew assigned to Garapan route",
-    details: "DPW is responsible for debris removal from Route 30 to Piya Road. Estimated completion is June 14 by 5pm.",
-    status: "Assigned",
-    tags: ["debris", "cleanup", "DPW"],
-    owner: "DPW",
-    timestamp: "Updated 2026-06-13 07:50",
-  },
-  {
-    id: "ZON-006",
-    category: "Zoning Notice",
-    title: "Permit review for repair work",
-    subtitle: "Zoning is reviewing emergency permit requests",
-    details: "Zoning on track to approve temporary repair permits for housing and commercial buildings within 24 hours.",
-    status: "Review",
-    tags: ["zoning", "permits", "recovery"],
-    owner: "Zoning",
-    timestamp: "Updated 2026-06-13 11:55",
-  },
-]
+const initialCardItems: CardItem[] = []
 
 const categories = ["All", "Supply Vendor", "Agency Update", "Outage Report", "Donation Tracking", "Debris Cleanup", "Zoning Notice"]
 
