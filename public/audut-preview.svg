@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Audut - Disaster Preparedness and Recovery</title>
+  <desc id="desc">Audut Base preview card with the Audut angular A logo and wordmark.</desc>
+  <defs>
+    <linearGradient id="backgroundGradient" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e0f7fb"/>
+    </linearGradient>
+    <linearGradient id="audutPrimaryGradient" x1="118" y1="148" x2="342" y2="428" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#35D3F2"/>
+      <stop offset="0.55" stop-color="#007D99"/>
+      <stop offset="1" stop-color="#005F73"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#backgroundGradient)"/>
+  <g transform="translate(118,138) scale(1.02)">
+    <path d="M64 286 L160 54 H214 L146 286 Z" fill="url(#audutPrimaryGradient)"/>
+    <path d="M214 54 H266 L356 286 H301 L244 144 L193 286 H141 L214 54 Z" fill="url(#audutPrimaryGradient)"/>
+    <path d="M214 108 L246 186 H182 Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  </g>
+  <text x="510" y="285" fill="#053647" font-family="Poppins, Montserrat, 'Segoe UI', Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-1.5">Audut</text>
+  <text x="514" y="360" fill="#005F73" font-family="Poppins, Montserrat, 'Segoe UI', Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="0">Disaster Preparedness &amp; Recovery</text>
+  <text x="516" y="420" fill="#475569" font-family="Poppins, Montserrat, 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="500" letter-spacing="0">Community reports for preparedness, response, and recovery in the CNMI.</text>
+</svg>

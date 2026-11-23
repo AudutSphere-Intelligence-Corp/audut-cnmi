@@ -1,12 +1,1 @@
-{
-  "buildCommand": "npm run build",
-  "installCommand": "npm install",
-  "outputDirectory": "dist",
-  
-  "redirects": [
-    {
-      "source": "/api/:path*",
-      "destination": "https://api.example.com/:path*"
-    }
-  ]
-}
+{"buildCommand":"npm run build","installCommand":"npm install","outputDirectory":"dist"}

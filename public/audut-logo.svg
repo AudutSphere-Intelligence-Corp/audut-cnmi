@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Audut Primary Logo</title>
+  <desc id="desc">Audut primary logo with angular monogram, wordmark, and subtitle.</desc>
+  <defs>
+    <linearGradient id="audutPrimaryGradient" x1="64" y1="54" x2="356" y2="286" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#35D3F2"/>
+      <stop offset="0.55" stop-color="#007D99"/>
+      <stop offset="1" stop-color="#005F73"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(20,0)">
+    <path d="M64 286 L160 54 H214 L146 286 Z" fill="url(#audutPrimaryGradient)"/>
+    <path d="M214 54 H266 L356 286 H301 L244 144 L193 286 H141 L214 54 Z" fill="url(#audutPrimaryGradient)"/>
+    <path d="M214 108 L246 186 H182 Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  </g>
+
+  <text
+    x="420"
+    y="168"
+    font-family="Poppins, Montserrat, 'Segoe UI', Arial, sans-serif"
+    font-size="120"
+    font-weight="800"
+    letter-spacing="-1.5"
+    fill="#053647"
+  >
+    Audut
+  </text>
+
+  <text
+    x="424"
+    y="236"
+    font-family="Poppins, Montserrat, 'Segoe UI', Arial, sans-serif"
+    font-size="43"
+    font-weight="500"
+    letter-spacing="0.8"
+    fill="#005F73"
+  >
+    Disaster Assistance Portal
+  </text>
+</svg>

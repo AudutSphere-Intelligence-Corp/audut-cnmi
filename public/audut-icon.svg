@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Audut A Icon</title>
+  <desc id="desc">Audut angular A monogram.</desc>
+  <defs>
+    <linearGradient id="audutPrimaryGradient" x1="96" y1="64" x2="416" y2="448" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#35D3F2"/>
+      <stop offset="0.55" stop-color="#007D99"/>
+      <stop offset="1" stop-color="#005F73"/>
+    </linearGradient>
+  </defs>
+  <path d="M92 432 L215 80 H297 L194 432 Z" fill="url(#audutPrimaryGradient)"/>
+  <path d="M297 80 H376 L512 432 H428 L342 217 L265 432 H186 L297 80 Z" fill="url(#audutPrimaryGradient)"/>
+  <path d="M297 162 L346 280 H249 Z" fill="#FFFFFF" fill-opacity="0.95"/>
+</svg>
